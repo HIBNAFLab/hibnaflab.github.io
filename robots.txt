@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hibnaflab.github.io/sitemap.xml
